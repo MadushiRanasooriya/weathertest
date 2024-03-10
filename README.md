@@ -12,13 +12,13 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/madushiranasooriya/dockertest.git
+    git clone https://github.com/madushiranasooriya/weathertest.git
     ```
 
 2. Change into the project directory:
 
     ```bash
-    cd dockertest
+    cd weathertest
     ```
 
 3. Build the Docker image:
